@@ -1,0 +1,14 @@
+2023-01-31T20:35:37.204+05:30  INFO 25156 --- [main] c.e.s.SpringTestLoggingApplication       : Starting SpringTestLoggingApplication using Java 17.0.5 with PID 25156 (C:\Users\dell\eclipse-workspace\IntelliJ Projects\Spring Boot Projects\spring-test-logging\target\classes started by dell in C:\Users\dell\eclipse-workspace\IntelliJ Projects\Spring Boot Projects\spring-test-logging)
+2023-01-31T20:35:37.207+05:30 DEBUG 25156 --- [main] c.e.s.SpringTestLoggingApplication       : Running with Spring Boot v3.0.2, Spring v6.0.4
+2023-01-31T20:35:37.208+05:30  INFO 25156 --- [main] c.e.s.SpringTestLoggingApplication       : No active profile set, falling back to 1 default profile: "default"
+2023-01-31T20:35:38.998+05:30  INFO 25156 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-01-31T20:35:39.013+05:30  INFO 25156 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-01-31T20:35:39.014+05:30  INFO 25156 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-01-31T20:35:39.163+05:30  INFO 25156 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-01-31T20:35:39.164+05:30  INFO 25156 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1874 ms
+2023-01-31T20:35:39.817+05:30  INFO 25156 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-01-31T20:35:39.831+05:30  INFO 25156 --- [main] c.e.s.SpringTestLoggingApplication       : Started SpringTestLoggingApplication in 3.289 seconds (process running for 3.83)
+2023-01-31T20:35:41.407+05:30  INFO 25156 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-31T20:35:41.408+05:30  INFO 25156 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-01-31T20:35:41.409+05:30  INFO 25156 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-01-31T20:35:41.453+05:30 DEBUG 25156 --- [http-nio-8080-exec-1] c.e.s.controller.DemoController          : Time is : 2023-01-31T20:35:41.453327200
